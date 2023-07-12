@@ -208,8 +208,9 @@ button {
   padding: 0px 36px 0px 36px;
 }
 /* ===========section-left=========== */
-.section-left {
- 
+.section-left-img {
+ display: flex;
+ flex-wrap: wrap;
 }
 .section-left-h2 {
   color: var(--grey-1, #000);
